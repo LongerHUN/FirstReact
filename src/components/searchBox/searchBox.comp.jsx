@@ -5,7 +5,7 @@ const SearchBox = ({ searchChange }) => {
     <div className="col-12">
       <input
         type="search"
-        placeholder="modell keresés"
+        placeholder="Search modell"
         onChange={searchChange}
       />
     </div>

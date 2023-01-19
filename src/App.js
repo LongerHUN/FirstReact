@@ -26,7 +26,7 @@ class App extends React.Component {
     });
     return (
       <div className="container text-center">
-        <h1>Terminator modellek</h1>
+        <h1>Robot modells</h1>
 
         <SearchBox searchChange={this.onSearchChange} />
 
